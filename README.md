@@ -2,13 +2,13 @@
 
 This is the note I took about hypothesis test which includes:
 
-Z Test
+[Z Test](./z_test/z_test.ipynb)
 
-T Test
+[T Test](./t_test/t_test.ipynb)
 
-ANOVA
+[ANOVA](./ANOVA/ANOVA.ipynb)
 
-Chi Squared Test
+[Chi Squared Test](./chi2_test/chi2_test.ipynb)
 
 All the notes were taken in the python Jupyter notebook. 
 In each Jupyter notebook, I solved some simple problems with hypothesis testing to showcase how the test is conducted.
